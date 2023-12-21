@@ -84,8 +84,7 @@ export default function Home() {
             </span>
           </h2>
           <p className={`m-0 max-w-[30ch] text-sm opacity-50`}>
-            Añade ordenadores o modifica ordenadores en la base deatos y asignalos a los alumnos.
-            
+            Añade ordenadores o modifica ordenadores en la base datos y asignalos.
           </p>
         </a>
 
